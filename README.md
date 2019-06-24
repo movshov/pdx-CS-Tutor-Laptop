@@ -4,8 +4,8 @@ Updated the CS Laptop at PSU Circuit Lounge.
 An electronic sign-in application for the CS Tutors at Portland State
 University <br/>
 Author(s): 
-           ``` Rob Werfelmann - rob AT werfelmann DOT com```
-           ```Bar Movshovich - CS Tutor Coordinator at PSU```
+           ``` Rob Werfelmann - rob AT werfelmann DOT com``` <br/>
+           ```Bar Movshovich - CS Tutor Coordinator at PSU``` <br/>
 
 
 ## Description:
