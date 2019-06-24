@@ -7,9 +7,9 @@ pdx-cs-tutors
 =============
 
 An electronic sign-in application for the CS Tutors at Portland State
-University 
-Author(s): Rob Werfelmann - rob AT werfelmann DOT com
-           Bar Movshovich CS Tutor Coordinator at PSU
+University <br/>
+Author(s): Rob Werfelmann - rob AT werfelmann DOT com <br/>
+           Bar Movshovich CS Tutor Coordinator at PSU <br/>
 
 
 Description:
