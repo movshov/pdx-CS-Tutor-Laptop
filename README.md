@@ -1,18 +1,14 @@
-# pdx-CS-Tutor-Laptop
+# PDX-CS-Tutor-Laptop
 Updated the CS Laptop at PSU Circuit Lounge. 
-
-
-
-pdx-cs-tutors
-=============
 
 An electronic sign-in application for the CS Tutors at Portland State
 University <br/>
-Author(s): Rob Werfelmann - rob AT werfelmann DOT com <br/>
-           Bar Movshovich CS Tutor Coordinator at PSU <br/>
+Author(s): 
+           ``` Rob Werfelmann - rob AT werfelmann DOT com```
+           ```Bar Movshovich - CS Tutor Coordinator at PSU```
 
 
-Description:
+## Description:
 
 The purpose of this application is to replace the old pen-and-paper method
 of signing students in to get CS tutoring. While signing students in with
@@ -49,7 +45,7 @@ commas separated value file named "output.csv". This file can be useful for
 data and statistical analysis.
 
 
-Download/Build Instructions:
+## Download/Build Instructions:
 
 You can download the latest stable release at:
 https://github.com/movshov/pdx-CS-Tutor-Laptop.git
@@ -73,3 +69,4 @@ In the top-level directory, issue the commands:
 And then to run the program, simple issue:
 
      $ ./pdx-cs-tutors
+
